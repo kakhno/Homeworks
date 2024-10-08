@@ -1,0 +1,15 @@
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\bin\Debug\net8.0\Homework8.exe
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\bin\Debug\net8.0\Homework8.deps.json
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\bin\Debug\net8.0\Homework8.runtimeconfig.json
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\bin\Debug\net8.0\Homework8.dll
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\bin\Debug\net8.0\Homework8.pdb
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.AssemblyInfoInputs.cache
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.AssemblyInfo.cs
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.sourcelink.json
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.dll
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\refint\Homework8.dll
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.pdb
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\Homework8.genruntimeconfig.cache
+C:\Users\C\Desktop\homeworkss\homeeworks\Homework8\obj\Debug\net8.0\ref\Homework8.dll
